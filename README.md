@@ -1,4 +1,4 @@
-# Dynamic Systems and Control
+# Quadrotor: Dynamic Systems and Control
 This repo contains files for the control project for the course E4DSE (Dynamiske Systemer og Regulering).
 The project is dynamic modeling of a quadrotor, and design, implementation and test of flight controllers.
 
